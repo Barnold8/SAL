@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHAZ/GQ8dB5uEqgOWiLqUY93of2r1lP26eRhFPlzMKme8geOan7Xk4UYEn0jSgKs7yxHyPPzcoy716fZ/uSS5A==",
+  "success": true,
+  "projectFilePath": "/home/barnold__/Projects/SAL/SAL-Blazor/SAL-Blazor.csproj",
+  "expectedPackageFiles": [
+    "/home/barnold__/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
