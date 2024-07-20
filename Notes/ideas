@@ -1,0 +1,15 @@
+Accounts so people can log in and see data relevant to their leaderboard
+Could have a global version/setting to see how you stack against the rest of the world in the games in your library overall 
+
+Account 
+    - STEAMID (needed to be used in the steamAPI call to find out information about achievements)
+    - Username (primary key)
+    - Maybe some serialised object holding cached data on leaderboard information? This could save doing API calls, user could click a refresh/update button to make that API call
+
+Possible technologies
+    - Docker
+    - FrameWork
+        - Blazor - C#
+        - DJango - Python
+    - SQL storage of information
+    - nginx? Throwing that in there cos ive heard of it but dont really know what it does in the grand scheme of things
