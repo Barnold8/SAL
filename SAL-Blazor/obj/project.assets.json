@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/barnold__/.nuget/packages/": {}
+    "/home/barnold/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/barnold__/Projects/SAL/SAL-Blazor/SAL-Blazor.csproj",
+      "projectUniqueName": "/home/barnold/Projects/SAL/SAL-Blazor/SAL-Blazor.csproj",
       "projectName": "SAL-Blazor",
-      "projectPath": "/home/barnold__/Projects/SAL/SAL-Blazor/SAL-Blazor.csproj",
-      "packagesPath": "/home/barnold__/.nuget/packages/",
-      "outputPath": "/home/barnold__/Projects/SAL/SAL-Blazor/obj/",
+      "projectPath": "/home/barnold/Projects/SAL/SAL-Blazor/SAL-Blazor.csproj",
+      "packagesPath": "/home/barnold/.nuget/packages/",
+      "outputPath": "/home/barnold/Projects/SAL/SAL-Blazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/barnold__/.nuget/NuGet/NuGet.Config"
+        "/home/barnold/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
