@@ -2,6 +2,8 @@ Have the SQL auto init when ran for the first time
 
 Add Accounts table
     - Provide hashing for passwords
+    - Somehow save data on user achievements, statistics, progressions etc
+    - Each user should have a list of people theyre competing against, for example they could take a steamID and then see how they fair against that ID
 
 
 Make blazor app MVVM or MVC (idk yet)
