@@ -1,0 +1,7 @@
+Have the SQL auto init when ran for the first time
+
+Add Accounts table
+    - Provide hashing for passwords
+
+
+Make blazor app MVVM or MVC (idk yet)
