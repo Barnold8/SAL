@@ -1,0 +1,39 @@
+@page "/test-connection"
+@using Microsoft.EntityFrameworkCore
+@inject ApplicationDbContext DbContext
+@rendermode InteractiveServer
+
+<h3>Test Database Connection</h3>
+
+@if (isConnected == null)
+{
+    <p>Checking connection...</p>
+}
+else if (isConnected == true)
+{
+    <p>Database connection successful!</p>
+}
+else
+{
+    <p>Failed to connect to the database.</p>
+}
+
+@code {
+    private bool? isConnected = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        @* Console.WriteLine("On page"); *@
+        try
+        {
+            // Attempt to connect to the database and check the connection
+            await DbContext.Database.CanConnectAsync();
+            isConnected = true;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error connecting to the database: {ex.Message}");
+            isConnected = false;
+        }
+    }
+}
