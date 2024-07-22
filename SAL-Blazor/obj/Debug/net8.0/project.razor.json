@@ -156,6 +156,117 @@
         }
       },
       {
+        "HashCode": 444707882,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Routes",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Routes"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Routes",
+          "Common.TypeNameIdentifier": "Routes",
+          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -702937275,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Routes",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SAL_Blazor.Components.Routes"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Routes",
+          "Common.TypeNameIdentifier": "Routes",
+          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 714946700,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.App",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1531092537,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.App",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SAL_Blazor.Components.App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -958617277,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Pages.Error",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Error"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Pages.Error",
+          "Common.TypeNameIdentifier": "Error",
+          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1827848261,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Pages.Error",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SAL_Blazor.Components.Pages.Error"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Pages.Error",
+          "Common.TypeNameIdentifier": "Error",
+          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -1460864765,
         "Kind": "Components.Component",
         "Name": "SAL_Blazor.Components.Pages.SQLTest",
@@ -230,43 +341,6 @@
         }
       },
       {
-        "HashCode": -958617277,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Pages.Error",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Error"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Pages.Error",
-          "Common.TypeNameIdentifier": "Error",
-          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1827848261,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Pages.Error",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SAL_Blazor.Components.Pages.Error"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Pages.Error",
-          "Common.TypeNameIdentifier": "Error",
-          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 1510442611,
         "Kind": "Components.Component",
         "Name": "SAL_Blazor.Components.Pages.Weather",
@@ -304,75 +378,38 @@
         }
       },
       {
-        "HashCode": 444707882,
+        "HashCode": 1207415825,
         "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Routes",
+        "Name": "SAL_Blazor.Pages.Error",
         "AssemblyName": "SAL-Blazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Routes"
+            "TagName": "Error"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Routes",
-          "Common.TypeNameIdentifier": "Routes",
-          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Common.TypeName": "SAL_Blazor.Pages.Error",
+          "Common.TypeNameIdentifier": "Error",
+          "Common.TypeNamespace": "SAL_Blazor.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -702937275,
+        "HashCode": -1625653675,
         "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Routes",
+        "Name": "SAL_Blazor.Pages.Error",
         "AssemblyName": "SAL-Blazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SAL_Blazor.Components.Routes"
+            "TagName": "SAL_Blazor.Pages.Error"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Routes",
-          "Common.TypeNameIdentifier": "Routes",
-          "Common.TypeNamespace": "SAL_Blazor.Components",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 714946700,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.App",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "SAL_Blazor.Components",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1531092537,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.App",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SAL_Blazor.Components.App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "SAL_Blazor.Components",
+          "Common.TypeName": "SAL_Blazor.Pages.Error",
+          "Common.TypeNameIdentifier": "Error",
+          "Common.TypeNamespace": "SAL_Blazor.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
