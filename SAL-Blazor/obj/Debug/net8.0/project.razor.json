@@ -193,43 +193,6 @@
         }
       },
       {
-        "HashCode": -970125099,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Pages.SQLTest",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SQLTest"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Pages.SQLTest",
-          "Common.TypeNameIdentifier": "SQLTest",
-          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 461971346,
-        "Kind": "Components.Component",
-        "Name": "SAL_Blazor.Components.Pages.SQLTest",
-        "AssemblyName": "SAL-Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SAL_Blazor.Components.Pages.SQLTest"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SAL_Blazor.Components.Pages.SQLTest",
-          "Common.TypeNameIdentifier": "SQLTest",
-          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -1104228067,
         "Kind": "Components.Component",
         "Name": "SAL_Blazor.Components.Pages.Error",
@@ -298,6 +261,43 @@
         "Metadata": {
           "Common.TypeName": "SAL_Blazor.Components.Pages.Home",
           "Common.TypeNameIdentifier": "Home",
+          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -970125099,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Pages.SQLTest",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SQLTest"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Pages.SQLTest",
+          "Common.TypeNameIdentifier": "SQLTest",
+          "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 461971346,
+        "Kind": "Components.Component",
+        "Name": "SAL_Blazor.Components.Pages.SQLTest",
+        "AssemblyName": "SAL-Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SAL_Blazor.Components.Pages.SQLTest"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SAL_Blazor.Components.Pages.SQLTest",
+          "Common.TypeNameIdentifier": "SQLTest",
           "Common.TypeNamespace": "SAL_Blazor.Components.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
